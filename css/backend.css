@@ -1,0 +1,17 @@
+/* ==========================================================================
+ESTRUTURA GERAL do BACKEND
+@author LAZARINI, Leonardo Filipe<leo.lazarini@gmail.com>
+========================================================================== */
+body { padding-top: 60px;padding-bottom: 40px; }
+.sidebar-nav { padding: 9px 0; }
+.form-login { background-color: #EEEEEE; border-radius: 6px 6px 6px 6px; width: 250px; margin: 0 auto; padding:1%; text-align: center; }
+.form-login img { margin-bottom: 2%; }
+.alert-login { width:280px; margin:0 auto; }
+.logo { width: 100%; margin-bottom: 5%; }
+.logo img{ width: 100%; }
+.row-fluid .span3{ width:0; min-width:200px; }
+.hero-unit { }
+.alert { text-align: center; }
+.titulo { font-size: 24px; color: #0088CC; }
+.phone { width: 40px; }
+#suporte input[type=text] {	width: 400px; }
