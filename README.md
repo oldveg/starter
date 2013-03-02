@@ -25,4 +25,13 @@ $config['nome_empresa'] = 'Nome da Empresa Aqui';
  ```
  
 
- ## Contribuição
+## Contribuição
+
+@adanfm
+@alexandresimao
+@franciscopimentelperdona
+@leolazarini
+@luisfdeandrade
+@silvioveg
+
+	
