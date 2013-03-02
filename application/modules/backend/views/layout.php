@@ -14,7 +14,6 @@ header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
 header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -90,14 +89,14 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
     <div class="container-fluid">
       <div class="row-fluid">
-        <div class="span3">
+        <div class="span2">
           <!-- Classe responsável pela LOGO do sistema -->
           <div class="logo">
             <img src="<?php echo base_url(); ?>img/logo.gif">
           </div>
           <?php $this->load->view('menu.php'); ?>
         </div><!--/span-->
-        <div class="span9">
+        <div class="span10">
           <?php
           //Verifica se existe a sessão que contém as informações do Alerta
           if($this->session->flashdata('alert')) 
