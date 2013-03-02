@@ -14,7 +14,7 @@ echo form_open(current_url());
 ?>
  <div id="main" class="wrapper clearfix">
   <p>
-    <textarea name="conteudo_gerenciavel" class="conteudo_gerenciavel" id="conteudo_gerenciavel"></textarea>  
+    <textarea name="conteudo_gerenciavel" class="editor" id="editor"></textarea>  
   </p>
 </div> <!-- #main -->
 <br>

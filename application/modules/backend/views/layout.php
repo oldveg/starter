@@ -135,7 +135,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
     <!-- Placed at the end of the document so the pages load faster -->
     <script type="text/javascript"> CI_ROOT = '<?php echo base_url(); ?>'; </script>
     <script>window.jQuery || document.write('<script src="'+CI_ROOT+'js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
-    <!-- <script src="<?php echo base_url(); ?>js/vendor/bootstrap.min.js"></script> -->
+    <script src="<?php echo base_url(); ?>js/vendor/bootstrap.min.js"></script>
     <script src="<?php echo base_url(); ?>js/vendor/ckeditor/ckeditor.js"></script>
     <script src="<?php echo base_url(); ?>js/vendor/jquery-ui-1.10.0.custom.min.js"></script>
     <script src="<?php echo base_url(); ?>js/vendor/jquery.autotab-1.1b.js"></script>

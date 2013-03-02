@@ -30,8 +30,7 @@ $config['nome_empresa'] = 'Nome da Empresa Aqui';
 @adanfm
 @alexandresimao
 @franciscopimentelperdona
-@leolazarini
+@leo_lazarini
 @luisfdeandrade
 @silvioveg
 
-	

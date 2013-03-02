@@ -85,15 +85,7 @@ $(document).ready(function() {
     //Aplica o asterístico vermelho após todo campo setado como obrigatório
     $(".obrigatorio").after("&nbsp;<font color='red'>*</font>");
 
-    /**
-     * Função responsável por linkar kfm com o ckeditor. 
-     * @author PERDONÁ, Francisco Pimentel <francisco.perdona@gmail.com>
-    **/
-    CKEDITOR.replace('conteudo_gerenciavel',
-    {
-        filebrowserBrowseUrl : CI_ROOT+'js/vendor/kfm-1.4.7/index.php',
-        filebrowserUploadUrl : CI_ROOT+'backend/site/upload_imagem_ckeditor'
-    });
+    
 
     /**
      * Função responsável por iniciar o plugin jQuery Placeholder 
