@@ -15,11 +15,7 @@
 ?>
 
 <div class="nav-collapse collapse">
-            <!--
-            <p class="navbar-text pull-right">
-              Logged in as <a href="#" class="navbar-link"><?php echo $this->session->userdata('username'); ?><b class="caret"></b></a>
-            </p>
-            -->
+    <a class="brand" href="#"><?php echo $this->config->item('nome_empresa'); ?></a>    
     <ul class="nav">
 	      <li <?php if($pagina == 'site') echo "class='active'"; ?>><a href="<?php echo base_url(); ?>backend/site"><i class="icon-home icon-white"></i>Home</a></li>
 	      <?php

@@ -5,10 +5,9 @@
 $CI =& get_instance();
 $CI->load->helper('url');
 
-// Nome do Site
-$config['nome_site'] = '';
+// Nome do Projeto
 $config['logo_site'] = base_url().'images/logo.png';
-$config['nome_empresa'] = '';
+$config['nome_empresa'] = 'Nome da Empresa Aqui';
 
 
 // Empresa desenvolvedora
