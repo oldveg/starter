@@ -7,9 +7,10 @@ Starter foi desenvolvido pela equipe de desenvolvedores da VEG Tecnologia com o 
 ## Funcionalidades Presentes 
 
  - Autênticação de Usuário com [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth); 
- - Layout Backend e Frontend com Bootstrap;
+ - Layout Twiter Bootstrap;
+ - Jquery UI [v1.10](http://jqueryui.com/), com [tema do bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/index.html);
  - Min de CSS e JS;
- - KFM configurado com ckeditor;
+ - KFM configurado com ckeditor 4;
 
 ## Configuração
 

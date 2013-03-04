@@ -30,7 +30,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
     */
     $this->minify->css_file = 'min.css';
     $this->minify->assets_dir = 'assets';
-    $this->minify->css(array('backend.css','jquery-ui-1.10.0.custom.css','bootstrap.min.css','bootstrap-responsive.min.css'));
+    $this->minify->css(array('backend.css','jquery-ui-1.10.0.custom.css', 'jquery.ui.1.10.0.ie.css','bootstrap.min.css','bootstrap-responsive.min.css'));
     
     echo $this->minify->deploy_css(true);
     ?>

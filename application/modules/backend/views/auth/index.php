@@ -41,7 +41,7 @@
  * @author ANDRADE, Luís Felipe de <luis_andrade11@hotmail.com>
  */
 echo form_open("backend/auth/edit_user"); ?>
-<p> <div class="input-prepend"><span class="add-on"><i class="icon-search"></i></span><input type="text" id="autocomplete_usuario" placeholder="Buscar usuário"><button class="btn" type="submit">Go!</button></p></div>
+<p> <div class="input-append input-prepend"><span class="add-on"><i class="icon-search"></i></span><input type="text" id="autocomplete_usuario" placeholder="Buscar usuário"><button class="btn" type="submit">Go!</button></p></div>
 <?php
 echo '<input type="hidden" name="usuario_id" id="usuario_id">';
 echo form_close();
@@ -93,7 +93,7 @@ echo form_close();
  * @author ANDRADE, Luís Felipe de <luis_andrade11@hotmail.com>
  */
 echo form_open("backend/auth/editar_nivel_permissao"); ?>
-<p> <div class="input-prepend"><span class="add-on"><i class="icon-search"></i></span><input type="text" id="autocomplete_nivel_permissao" placeholder="Buscar Nível de Permissão"><button class="btn" type="submit">Go!</button></p></div>
+<p> <div class="input-append input-prepend "><span class="add-on"><i class="icon-search"></i></span><input type="text" id="autocomplete_nivel_permissao" placeholder="Buscar Nível de Permissão"><button class="btn" type="submit">Go!</button></p></div>
 <?php
 echo '<input type="hidden" name="nivel_permissao_id" id="nivel_permissao_id">';
 echo form_close();
