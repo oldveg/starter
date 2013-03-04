@@ -94,7 +94,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
           <div class="logo">
             <img src="<?php echo base_url(); ?>img/logo.gif">
           </div>
-          <?php $this->load->view('menu.php'); ?>
+          <?php $this->load->view('partes/menu_lateral.php'); ?>
         </div><!--/span-->
         <div class="span10">
           <?php
@@ -130,6 +130,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

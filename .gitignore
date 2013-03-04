@@ -168,3 +168,5 @@ pip-log.txt
 ############
 *.sublime-project
 *.sublime-workspace
+
+uploads
