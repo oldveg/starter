@@ -60,7 +60,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="#"><?php echo $nome_site; ?></a>
+ 
           <div class="btn-group pull-right">
               <a href="<?php echo base_url(); ?>backend/site/suporte" title="Enviar mensagem para o Suporte" class="btn"><i class="icon-bullhorn"></i></a>
               <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
@@ -113,7 +113,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
           <?php
           }?>
           <div class="conteudo">
-            <span class="titulo"><?php echo $titulo; ?></span>
+            <div class="page-header"><h1><?php echo $titulo; ?></h1></div>
             <br><br>
             <div class="pagina"><?php $this->load->view($pagina); ?></div>
           </div>

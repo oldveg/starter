@@ -1,5 +1,1697 @@
 {
-
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"current",
+				"current_url"
+			],
+			[
+				"geocode",
+				"Geocoder"
+			],
+			[
+				"busc",
+				"busca_todos"
+			],
+			[
+				"tradu",
+				"traducao_categoria"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"form_c",
+				"form_checkbox	CI - Form Helper - Checkbox"
+			],
+			[
+				"r",
+				"really"
+			],
+			[
+				"lista_",
+				"lista_eventos"
+			],
+			[
+				"lista_e",
+				"lista_eventos2"
+			],
+			[
+				"Dele",
+				"deletar"
+			],
+			[
+				"codigo_",
+				"codigo_item"
+			],
+			[
+				"POs",
+				"Posts_model"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"en",
+				"enchant_broker_describe"
+			],
+			[
+				"traducao",
+				"traducao_campo"
+			],
+			[
+				"form_",
+				"form_label	CI - Form Helper - Label"
+			],
+			[
+				"FOR",
+				"foreach"
+			],
+			[
+				"quanti",
+				"quantidade_ligacoes"
+			],
+			[
+				"number",
+				"number_format"
+			],
+			[
+				"quantid",
+				"quantidade_comercial"
+			],
+			[
+				"quantida",
+				"quantidade_particular"
+			],
+			[
+				"t",
+				"tblink:w	Bootstrap warning link button"
+			],
+			[
+				"this",
+				"tbthumbnails	Bootstrap thumbnails"
+			],
+			[
+				"V",
+				"load  (variable)"
+			],
+			[
+				"new",
+				"newt_button"
+			],
+			[
+				"array",
+				"array_resultado"
+			],
+			[
+				"db",
+				"db_where	CI - Active Record DB Where"
+			],
+			[
+				"val",
+				"valid_ip	CI - Valid IP"
+			],
+			[
+				"td",
+				"tbbadge:w	Bootstrap warning badge"
+			],
+			[
+				"venci",
+				"vencimento"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"flas",
+				"fetch_class	fetch_class"
+			],
+			[
+				"off",
+				"offset_irregularidades"
+			],
+			[
+				"seT_",
+				"set_cookie	set_cookie"
+			],
+			[
+				"set_",
+				"set_flashdata	set_flashdata"
+			],
+			[
+				"tb",
+				"tbtabs	Bootstrap basic tabs"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"valor_to",
+				"valor_total_encargo"
+			],
+			[
+				"Gast",
+				"Gastos_linha_model"
+			],
+			[
+				"dados",
+				"dados_linha"
+			],
+			[
+				"busca",
+				"busca_todos	busca_todos"
+			],
+			[
+				"sessio_",
+				"session_id"
+			],
+			[
+				"insere_fatura_dig",
+				"insere_fatura_digitro_viqua"
+			],
+			[
+				"functio",
+				"create_function"
+			],
+			[
+				"centros_de_custo_",
+				"centros_de_custo_cod_centro_de_custo"
+			],
+			[
+				"unidad",
+				"unidades_cod_unidade"
+			],
+			[
+				"get_by_",
+				"get_by_unidade"
+			],
+			[
+				"drop",
+				"droppable"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"portlet",
+				"portlet-header"
+			],
+			[
+				"port",
+				"portlet-header"
+			],
+			[
+				"paine",
+				"painel_administracao"
+			],
+			[
+				"no",
+				"no-display  (value)"
+			],
+			[
+				"overflow-",
+				"overflow-x:   (property)"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"pai",
+				"painel_cliente/"
+			],
+			[
+				"_c",
+				"_cod_cliente"
+			],
+			[
+				"form",
+				"form-actions"
+			],
+			[
+				"cod_",
+				"cod_nivel_hierarquico"
+			],
+			[
+				"v",
+				"valid_ip	valid_ip"
+			],
+			[
+				"colunas_Tabela",
+				"colunas_tabela_top_ligacoes_final_de_semana"
+			],
+			[
+				"dados_tabela_Top_",
+				"dados_tabela_top_ligacoes_final_de_semana"
+			],
+			[
+				"excel_",
+				"excel_linha_segunda_planilha"
+			],
+			[
+				"cent",
+				"centro_de_custo"
+			],
+			[
+				"centro",
+				"centro_de_custo"
+			],
+			[
+				"Centros",
+				"Centros_de_custo_model"
+			],
+			[
+				"nome",
+				"nome_centro_de_custo"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"Centr",
+				"Centros_de_custo_model"
+			],
+			[
+				"gera",
+				"gerar_relatorio_geral_mensal"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"n",
+				"no-repeat  (value)"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fun",
+				"fundo_pagina_inicial"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"Niveis_p",
+				"Niveis_Permissao_model"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/modules/backend/controllers/ajuda.php",
+			"settings":
+			{
+				"buffer_size": 1449,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/modules/backend/views/ajuda/ajuda.php",
+			"settings":
+			{
+				"buffer_size": 2226,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"BOOTSTRAP",
+				"Snippet: Bootstrap accordion"
+			],
+			[
+				"img",
+				"Emmet: Update Image Size"
+			],
+			[
+				"snipet:BOOTSTRAP",
+				"Snippet: Bootstrap accordion"
+			],
+			[
+				"set JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"iNSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKAGE",
+				"Package Control: Remove Package"
+			],
+			[
+				"SET PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"SET SYNTAX :PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: RE",
+				"Package Control: Remove Package"
+			],
+			[
+				"set ",
+				"Set Syntax: PHP"
+			],
+			[
+				"Taks",
+				"Tasks: New document"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"snippet: coment",
+				"Snippet: comentario_view"
+			],
+			[
+				"Snippet: ",
+				"Snippet: comentario_view"
+			],
+			[
+				"CI -  SES",
+				"Snippet: CI - Is ajax request"
+			],
+			[
+				"sNIPPET: ci",
+				"Snippet: CI - Is CLI request"
+			],
+			[
+				"Tas",
+				"Tasks: New document"
+			],
+			[
+				"Disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Jqu",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"query",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"setp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ci",
+				"Snippet: is_cli"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snipp",
+				"Snippet: Get Elements"
+			],
+			[
+				"Snippet:",
+				"Snippet: Object Value JS"
+			],
+			[
+				"ANCHOR",
+				"Snippet: anchor"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/starter/application/modules/backend/views/layout.php",
+		"/C/wamp/www/starter/application/modules/backend/views/partes/menu_superior.php",
+		"/C/wamp/www/starter/application/config/system.php",
+		"/C/wamp/www/starter/application/modules/backend/controllers/home.php",
+		"/C/wamp/www/starter/application/modules/backend/views/ajuda/ajuda.php",
+		"/C/wamp/www/starter/application/modules/backend/views/partes/menu_lateral.php",
+		"/C/wamp/www/starter/.gitignore",
+		"/C/wamp/www/starter/application/modules/backend/views/menu.php",
+		"/C/wamp/www/starter/starter.sublime-project",
+		"/C/wamp/www/starter/starter.sublime-workspace",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/tarefas.TODO",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/frontend.js",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/css/select2.css",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/css/backend.css",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/empresas.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/empresas/empresas.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/menu.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/layout.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/pesquisa_investidores/pesquisa_investidores.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/job_corner/job_corner.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/job_corner.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/pesquisa_investidores/novo_investimento.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/pesquisa_investidores/editar_investimento.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/pesquisa_investidores.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/job_corner/novo_curriculo.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/models/empresas_model.php",
+		"/C/Users/Luis/AppData/Local/Temp/fz3temp-1/log-2013-02-21.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/empresas.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/empresas/empresas.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/pontos_importantes.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/pontos_importantes/pontos_importantes.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/system/libraries/Upload.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/upload.php",
+		"/C/Users/Luis/AppData/Local/Temp/fz3temp-1/log-2013-02-13.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/mimes.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/pontos_interesse.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/database.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/empresas/nova_empresa.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/layout.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/funcoes.js",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/css/frontend.css",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/empresas/novas_empresas.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/cidades/nova_cidade.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/cidades.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/cadastro/cadastro.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/cidades/editar_cidade.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/cidades/excluir_cidade.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/banner.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/banner/banner.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/libraries/GMap.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/libraries/enviar_emails.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/quem_somos.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/libraries/Lingua.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/index.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/eventos.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/partes/topo_site.php",
+		"/C/Users/Luis/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/home.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/models/cadastros_model.php",
+		"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/brazil_norway.sublime-project",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/models/comum_model.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/models/cadastros_model.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/system/libraries/Upload.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/mimes.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/membros/membros.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/empresas/empresas.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/empresas.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/empresas.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/autoload.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/leiame.txt",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/doctypes.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/.htaccess",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/job_corner.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/job_corner/novo_curriculo.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/database.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/index.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/empresas/nova_empresa.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/empresas/empresas.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/layout.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/funcoes.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/menu.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/home.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/views/partes/menu_superior.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/home.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/membros.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/tarefas.TODO",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/investimentos.php",
+		"/home/andrade/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/frontend.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/database.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/css/index.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/cadastro/cadastro_feito.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/layout.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/css/frontend.css",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/partes/form_login.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/partes/topo_site.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/partes/menu_lateral.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/email.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/partes/banner.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/pesquisa_investidores/pesquisa_investidores.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/jquery.fileupload-ip.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/jquery.iframe-transport.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/canvas-to-blob.min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/tmpl.min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/load-image.min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/jquery.colorbox-min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/masked_plugin.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/jquery.ui.map.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/selectboxes.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/responsiveslides.min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/bootstrap.min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/jquery-ui.min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/select2.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/jquery_min.js",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/categorias.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/config/routes.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/eventos.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/helpers/data_helper.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/models/job_corner_model.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/models/empresas_model.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/backend/controllers/job_corner.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/eventos/eventos.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/pontos_interesse/pontos_interesse.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/cidades_estados/cidades_estados.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/views/job_corner/job_corner.php",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/js/kfm-1.4.7/plugins/tiny_mce/tiny_mce/themes/advanced/skins/o2k7/dialog.css",
+		"/var/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/application/modules/site/controllers/cidades_estados.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"collapseTwo",
+			"collapseOne",
+			"home",
+			"view",
+			"nome_da_view",
+			"VIEW",
+			"listagem_curriculos",
+			"border:1px",
+			"autocomplete_ponto_importante",
+			"arg",
+			"escape",
+			"global",
+			"Mapa",
+			"temperatura_noruega",
+			"wrap",
+			"world",
+			"-->",
+			"span4",
+			"h5",
+			"mudar",
+			"pais_busca",
+			"console.lo",
+			"console.log",
+			"cod_pais",
+			"form_close",
+			"title",
+			"classABC",
+			"cod_empresa",
+			"empresa",
+			"size",
+			"memory",
+			"projetos",
+			"default",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"$post->cod_post",
+			"membro",
+			"Membro",
+			"membro",
+			"label-info",
+			"joined_",
+			"5",
+			"asc",
+			"todos",
+			"cargos",
+			"\"\"",
+			"por_pagina",
+			"query",
+			"anything",
+			"cod_post",
+			"post",
+			"echo",
+			"@done",
+			"backend",
+			"frontend",
+			"site",
+			"Tags",
+			" $this->_dados['campos'][",
+			"novo_cargo",
+			"post",
+			"cod_post",
+			"posts",
+			"cod",
+			"nomecod",
+			"banner",
+			"excluir_banner",
+			"codigo_post",
+			"banner",
+			"banners",
+			"banner",
+			"modulo",
+			"VIEW",
+			"mural_3",
+			"mural_1",
+			"mural_2",
+			"echo",
+			"loadmoreajaxloader",
+			"data",
+			"    //Data do Evento\n    echo form_label('Data do Evento', 'data');\n    echo form_input($data);    \n    echo '<span class=\"help-inline\">*</span>';\n    echo \"<p></p>\";",
+			"data",
+			"disq",
+			"dis",
+			"\">\n",
+			"echo",
+			"integer",
+			"dados_empresa",
+			"nomecod",
+			"value",
+			"campo",
+			"table",
+			"\";\n",
+			" $this->_dados['post'] = array(\n        'name'  => 'post',\n        'id'    => 'post',\n        'class'    => 'post',\n        'value' => $this->form_validation->set_value('post'),\n        'placeholder' => $this->_dados['campos']['Post']->ajuda_campo,\n        'maxlength' => '1024'\n      );",
+			"Conteudo_model",
+			"remover_foto",
+			"posts",
+			"_tabela_postagem",
+			"Mural",
+			"empresas",
+			"Empresas",
+			"url(images",
+			"images",
+			"tag",
+			"id",
+			"      ",
+			"nome_evento",
+			"borda",
+			"pontos_importantes",
+			"cod_evento",
+			"adicionar_fotos",
+			"traducao",
+			"backend",
+			"	        <",
+			"desativar_evento",
+			"Cadastro",
+			"asc",
+			"	(",
+			"(",
+			"active",
+			"Investimento",
+			"investimento",
+			"Investimento",
+			"investimento",
+			"Investimento",
+			"investimento",
+			"Investimento",
+			"investimento"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"url(../img/estrutura"
+		],
+		"reverse": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/modules/backend/controllers/ajuda.php",
+					"settings":
+					{
+						"buffer_size": 1449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								838
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/modules/backend/views/ajuda/ajuda.php",
+					"settings":
+					{
+						"buffer_size": 2226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851,
+								851
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ajuda/ajud",
+				"application/modules/backend/views/ajuda/ajuda.php"
+			],
+			[
+				"backend/layou",
+				"application/modules/backend/views/layout.php"
+			],
+			[
+				"fron",
+				"js/frontend.js"
+			],
+			[
+				"site/job",
+				"application/modules/site/controllers/job_corner.php"
+			],
+			[
+				"site/c/job_co",
+				"application/modules/site/controllers/job_corner.php"
+			],
+			[
+				"backend/v/empresas",
+				"application/modules/backend/views/empresas/empresas.php"
+			],
+			[
+				"site/v/empresas",
+				"application/modules/site/views/empresas/nova_empresa.php"
+			],
+			[
+				"backend/v/menu",
+				"application/modules/backend/views/menu.php"
+			],
+			[
+				"fro",
+				"js/frontend.js"
+			],
+			[
+				"site/empresas",
+				"application/modules/site/controllers/empresas.php"
+			],
+			[
+				"emprea",
+				"application/modules/backend/controllers/empresas.php"
+			],
+			[
+				"views/excluir_cidade",
+				"application/modules/backend/views/cidades/excluir_cidade.php"
+			],
+			[
+				"t",
+				"tarefas.TODO"
+			],
+			[
+				"config/da",
+				"application/config/database.php"
+			],
+			[
+				"fr",
+				"js/frontend.js"
+			],
+			[
+				"funco",
+				"js/funcoes.js"
+			],
+			[
+				"todo",
+				"tarefas.TODO"
+			],
+			[
+				"cadastros",
+				"application/modules/backend/models/cadastros_model.php"
+			],
+			[
+				"modules/backend/empresas",
+				"application/modules/backend/controllers/empresas.php"
+			],
+			[
+				"fun",
+				"js/funcoes.js"
+			],
+			[
+				"comum_",
+				"application/models/comum_model.php"
+			],
+			[
+				"system/libraries/upload",
+				"system/libraries/Upload.php"
+			],
+			[
+				"backend/v/empresas/",
+				"application/modules/backend/views/empresas/empresas.php"
+			],
+			[
+				"backend/empresas",
+				"application/modules/backend/controllers/empresas.php"
+			],
+			[
+				"",
+				".htaccess"
+			],
+			[
+				"backend/home",
+				"application/modules/backend/controllers/home.php"
+			],
+			[
+				"site/v/la",
+				"application/modules/site/views/layout.php"
+			],
+			[
+				"backend/c/memro",
+				"application/modules/backend/controllers/membros.php"
+			],
+			[
+				"site/c/job",
+				"application/modules/site/controllers/job_corner.php"
+			],
+			[
+				"empresas_m",
+				"application/modules/site/models/empresas_model.php"
+			],
+			[
+				"job_coner",
+				"application/modules/site/models/job_corner_model.php"
+			],
+			[
+				"tod",
+				"tarefas.TODO"
+			],
+			[
+				"todos",
+				"js/kfm-1.4.7/plugins/tiny_mce/tiny_mce/themes/advanced/skins/o2k7/dialog.css"
+			],
+			[
+				"site/v/eventos",
+				"application/modules/site/views/eventos/eventos.php"
+			],
+			[
+				"site/v/pesqu",
+				"application/modules/site/views/pesquisa_investidores/pesquisa_investidores.php"
+			],
+			[
+				"f",
+				"js/frontend.js"
+			],
+			[
+				"site/v/pont",
+				"application/modules/site/views/pontos_interesse/pontos_interesse.php"
+			],
+			[
+				"site/v/job_",
+				"application/modules/site/views/job_corner/job_corner.php"
+			],
+			[
+				"site/v/cida",
+				"application/modules/site/views/cidades_estados/cidades_estados.php"
+			],
+			[
+				"site/cda",
+				"application/modules/site/controllers/cidades_estados.php"
+			],
+			[
+				"site/v/empres",
+				"application/modules/site/views/empresas/empresas.php"
+			],
+			[
+				"front",
+				"js/frontend.js"
+			],
+			[
+				"site/pontos_",
+				"application/modules/site/controllers/pontos_interesse.php"
+			],
+			[
+				"site/lay",
+				"application/modules/site/views/layout.php"
+			],
+			[
+				"pesqus/pesq",
+				"application/modules/site/views/pesquisa_investidores/pesquisa_investidores.php"
+			],
+			[
+				"eventos_mo",
+				"application/modules/site/models/eventos_model.php"
+			],
+			[
+				"inves",
+				"application/modules/site/models/investimentos_model.php"
+			],
+			[
+				"job",
+				"application/modules/site/models/job_corner_model.php"
+			],
+			[
+				"job_coner_mo",
+				"application/modules/site/models/job_corner_model.php"
+			],
+			[
+				"site/cidades",
+				"application/modules/site/controllers/cidades_estados.php"
+			],
+			[
+				"fronte",
+				"js/frontend.js"
+			],
+			[
+				"membros_m",
+				"application/modules/site/models/membros_model.php"
+			],
+			[
+				"membros_l",
+				"application/modules/site/models/membros_model.php"
+			],
+			[
+				"empresas_mode",
+				"application/modules/site/models/empresas_model.php"
+			],
+			[
+				"site/eventos",
+				"application/modules/site/controllers/eventos.php"
+			],
+			[
+				"cadast",
+				"application/modules/backend/models/cadastros_model.php"
+			],
+			[
+				"posts",
+				"application/modules/site/models/posts_model.php"
+			],
+			[
+				"posts_",
+				"application/modules/site/models/posts_model.php"
+			],
+			[
+				"frot",
+				"css/frontend.css"
+			],
+			[
+				"eventos_m",
+				"application/modules/site/models/eventos_model.php"
+			],
+			[
+				"cadas",
+				"application/modules/backend/models/cadastros_model.php"
+			],
+			[
+				"cada",
+				"application/modules/backend/models/cadastros_model.php"
+			],
+			[
+				"backend/mural",
+				"application/modules/backend/controllers/mural.php"
+			],
+			[
+				"site/v/mura",
+				"application/modules/site/views/mural/mural.php"
+			],
+			[
+				"cadastr",
+				"application/modules/backend/models/cadastros_model.php"
+			],
+			[
+				"backend/eve",
+				"application/modules/backend/controllers/eventos.php"
+			],
+			[
+				"site/v/fotos",
+				"application/modules/site/views/eventos/adicionar_fotos.php"
+			],
+			[
+				"membr",
+				"application/modules/site/models/membros_model.php"
+			],
+			[
+				"membros_mo",
+				"application/modules/site/models/membros_model.php"
+			],
+			[
+				"site/v/e/adi",
+				"application/modules/site/views/eventos/adicionar_fotos.php"
+			],
+			[
+				"site/v/mu",
+				"application/modules/site/views/mural/mural.php"
+			],
+			[
+				"layout",
+				"application/modules/site/views/layout.php"
+			],
+			[
+				"funcos",
+				"js/funcoes.js"
+			],
+			[
+				"site/mural",
+				"application/modules/site/controllers/mural.php"
+			],
+			[
+				"fu",
+				"js/funcoes.js"
+			],
+			[
+				"cadasto",
+				"application/modules/backend/models/cadastros_model.php"
+			],
+			[
+				"posts_m",
+				"application/modules/site/models/posts_model.php"
+			],
+			[
+				"site/v/mural/",
+				"application/modules/site/views/mural/mural.php"
+			],
+			[
+				"site/v/edita",
+				"application/modules/site/views/eventos/editar_evento.php"
+			],
+			[
+				"backend/v/novo_eve",
+				"application/modules/backend/views/eventos/novo_evento.php"
+			],
+			[
+				"backend/event",
+				"application/modules/backend/controllers/eventos.php"
+			],
+			[
+				"_model",
+				"application/models/geoworld_model.php"
+			],
+			[
+				"model",
+				"application/modules/backend/models/banner_model.php"
+			],
+			[
+				"postos",
+				"system/database/drivers/postgre/postgre_driver.php"
+			],
+			[
+				"site/v/lay",
+				"application/modules/site/views/layout.php"
+			],
+			[
+				"frote",
+				"css/frontend.css"
+			],
+			[
+				"site/c/ev",
+				"application/modules/site/controllers/eventos.php"
+			],
+			[
+				"system",
+				"application/config/system.php"
+			],
+			[
+				"model/cada",
+				"application/modules/backend/models/cadastros_model.php"
+			],
+			[
+				"site/empr",
+				"application/modules/site/controllers/empresas.php"
+			],
+			[
+				"site/c/even",
+				"application/modules/site/controllers/eventos.php"
+			],
+			[
+				"site/c/eve",
+				"application/modules/site/controllers/eventos.php"
+			],
+			[
+				"site/c/em",
+				"application/modules/site/controllers/empresas.php"
+			],
+			[
+				"site/v/e/no",
+				"application/modules/site/views/eventos/novo_evento.php"
+			],
+			[
+				"site/v/no",
+				"application/modules/site/views/empresas/nova_empresa.php"
+			],
+			[
+				"site/v/empre",
+				"application/modules/site/views/empresas/empresas.php"
+			],
+			[
+				"site/empres",
+				"application/modules/site/controllers/empresas.php"
+			],
+			[
+				"fronten",
+				"js/frontend.js"
+			],
+			[
+				"js/main",
+				"js/main.js"
+			],
+			[
+				"site/v/nov",
+				"application/modules/site/views/empresas/nova_empresa.php"
+			],
+			[
+				"site/c/emp",
+				"application/modules/site/controllers/empresas.php"
+			],
+			[
+				"site/em",
+				"application/modules/site/models/empresas_model.php"
+			],
+			[
+				"site/eve",
+				"application/modules/site/controllers/eventos.php"
+			],
+			[
+				"home",
+				"application/modules/backend/controllers/home.php"
+			],
+			[
+				"site/edit",
+				"application/modules/site/views/eventos/editar_evento.php"
+			],
+			[
+				"site/adi",
+				"application/modules/site/views/eventos/adicionar_fotos.php"
+			],
+			[
+				"site/novo_",
+				"application/modules/site/views/eventos/novo_evento.php"
+			],
+			[
+				"site/adic",
+				"application/modules/site/views/eventos/adicionar_fotos.php"
+			],
+			[
+				"backend/v/editar_e",
+				"application/modules/backend/views/eventos/editar_evento.php"
+			],
+			[
+				"backend/even",
+				"application/modules/backend/controllers/eventos.php"
+			],
+			[
+				"backend/evento/edi",
+				"application/modules/backend/views/eventos/editar_evento.php"
+			],
+			[
+				"layo",
+				"application/modules/backend/views/layout.php"
+			],
+			[
+				"site/v/adi",
+				"application/modules/site/views/eventos/adicionar_fotos.php"
+			],
+			[
+				"site/v/meu",
+				"application/modules/site/views/eventos/meus_eventos.php"
+			],
+			[
+				"site/v/ev",
+				"application/modules/site/views/eventos/eventos.php"
+			],
+			[
+				"backend/v/event",
+				"application/modules/backend/views/eventos/eventos.php"
+			],
+			[
+				"backend/c/eve",
+				"application/modules/backend/controllers/eventos.php"
+			],
+			[
+				"back",
+				"css/backend.css"
+			],
+			[
+				"site/meus",
+				"application/modules/site/views/eventos/meus_eventos.php"
+			],
+			[
+				"back/v/event",
+				"application/modules/backend/views/eventos/eventos.php"
+			],
+			[
+				"backend/eventos",
+				"application/modules/backend/controllers/eventos.php"
+			],
+			[
+				"backen/c/hoe",
+				"application/modules/backend/controllers/home.php"
+			],
+			[
+				"eventos_mod",
+				"application/modules/site/models/eventos_model.php"
+			],
+			[
+				"backend/menu",
+				"application/modules/backend/views/menu.php"
+			],
+			[
+				"investimeno",
+				"application/modules/backend/controllers/investimentos.php"
+			],
+			[
+				"site/novo",
+				"application/modules/site/views/eventos/novo_evento.php"
+			],
+			[
+				"membros_",
+				"application/modules/site/models/membros_model.php"
+			],
+			[
+				"site/c/event",
+				"application/modules/site/controllers/eventos.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/projetos_concluidos/sostelecom/sostelecom/sostelecom.sublime-project"
+			],
+			[
+				"SOS",
+				"/C/wamp/www/projetos_concluidos/sostelecom/sostelecom/sostelecom.sublime-project"
+			],
+			[
+				"b",
+				"/C/wamp/www/projetos_desenvolvimento/viva_infancia/sistema/viva_infancia.sublime-project"
+			],
+			[
+				"viv",
+				"/C/wamp/www/projetos_desenvolvimento/viva_infancia/sistema/viva_infancia.sublime-project"
+			],
+			[
+				"vi",
+				"/C/wamp/www/projetos_desenvolvimento/viva_infancia/sistema/viva_infancia.sublime-project"
+			],
+			[
+				"s",
+				"/var/www/projetos_desenvolvimento/new_sistema_imobiliaria/jlleimobiliaria/sistema_imobiliaria/sistema_imobiliaria.sublime-project"
+			],
+			[
+				"sos",
+				"/var/www/projetos_desenvolvimento/new_sistema_imobiliaria/jlleimobiliaria/sistema_imobiliaria/sistema_imobiliaria.sublime-project"
+			],
+			[
+				"sis",
+				"/var/www/projetos_desenvolvimento/new_sistema_imobiliaria/jlleimobiliaria/sistema_imobiliaria/sistema_imobiliaria.sublime-project"
+			],
+			[
+				"pr",
+				"/var/www/projetos_desenvolvimento/programadasustentabilidade/sistema/programadasustentabilidade.sublime-project"
+			],
+			[
+				"cc",
+				"/var/www/projetos_desenvolvimento/cceg/sistema/cceg.sublime-project"
+			],
+			[
+				"so",
+				"/var/www/projetos_concluidos/sos/sistema_dev/sos_sistema.sublime-project"
+			],
+			[
+				"SO",
+				"/var/www/projetos_concluidos/sos/sistema_dev/sos_sistema.sublime-project"
+			],
+			[
+				"cceg",
+				"/var/www/projetos_desenvolvimento/cceg/sistema/cceg.sublime-project"
+			],
+			[
+				"cce",
+				"/var/www/projetos_desenvolvimento/cceg/sistema/cceg.sublime-project"
+			],
+			[
+				"bra",
+				"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/brazil_norway.sublime-project"
+			],
+			[
+				"br",
+				"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/brazil_norway.sublime-project"
+			],
+			[
+				"braz",
+				"/C/wamp/www/projetos_desenvolvimento/brazil_norway_business_conection/sistema/starter.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
